@@ -1,0 +1,18 @@
+# Mandatory metadata
+[general]
+name=ibge_downloader
+qgisMinimumVersion=3.0
+description=Download, extraia e carregue camadas do IBGE no QGIS
+version=1.0
+author=Matheus Magalhães Cardoso
+email=magalhaes.matheus@ime.eb.br
+
+# Optional metadata
+about=Plugin simplificado para download, extração e carregamento de camadas geoespaciais do IBGE no QGIS
+tracker=https://github.com/seu-usuario/ibge_downloader/issues
+repository=https://github.com/seu-usuario/ibge_downloader
+homepage=https://github.com/seu-usuario/ibge_downloader
+category=Web
+icon=icon.png
+experimental=True
+deprecated=False
