@@ -9,9 +9,9 @@ email=magalhaes.matheus@ime.eb.br
 
 # Optional metadata
 about=Plugin simplificado para download, extração e carregamento de camadas geoespaciais do IBGE no QGIS
-tracker=https://github.com/seu-usuario/ibge_downloader/issues
-repository=https://github.com/seu-usuario/ibge_downloader
-homepage=https://github.com/seu-usuario/ibge_downloader
+tracker=https://github.com/mmagalhaescime/qgis-ibge-downloader/issues
+repository=https://github.com/mmagalhaescime/qgis-ibge-downloader
+homepage=https://github.com/mmagalhaescime/qgis-ibge-downloader
 category=Web
 icon=icon.png
 experimental=True
